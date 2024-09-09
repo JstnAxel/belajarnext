@@ -1,5 +1,5 @@
 import React from 'react';
-import './Breadcrumb.css'; // Import the CSS file
+import './Breadcrumb.css'; 
 
 interface BreadcrumbProps {
   datas: string[];
